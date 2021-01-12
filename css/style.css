@@ -2,3 +2,14 @@
     background-color: #FEEAE9;
     border-radius: 0.8em;
 }
+
+.pink{
+    color: #fc0578;
+}
+
+.panda-btn{
+    padding: 0.5em 1em 0.5em 1em;
+    background-color: #fc0578;
+    border: 0;
+    border-radius: 0.5em;
+}
