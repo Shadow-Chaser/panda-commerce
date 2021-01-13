@@ -7,9 +7,39 @@
     color: #fc0578;
 }
 
+.orrange{
+   background-color:#FFA500;
+   border-radius: .5em;
+   color: white;
+
+}
+
+.purple{
+    background-color: #e913e2 ;
+    border-radius: .5em;
+    color: white;
+    
+}
+
+.blue{
+    background-color: #0042FD;
+    border-radius: .5em;
+    color: white;
+  
+}
+
 .panda-btn{
     padding: 0.5em 1em 0.5em 1em;
     background-color: #fc0578;
     border: 0;
+    border-radius: 0.5em;
+}
+
+.cat-img{
+    height: 100px;
+    width: 100px;
+}
+
+.b-radius{
     border-radius: 0.5em;
 }
